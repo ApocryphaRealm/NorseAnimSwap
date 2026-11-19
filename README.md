@@ -29,3 +29,7 @@ Console: `anim.log on|off` (log every animation start: unit, montage, animation 
 0.1.0 tested in game (TEST-RESULT-0.1.0.txt). Not yet: montage-for-montage, variants, the game's own attacks in a fight.
 NorsePayload hooks the same function; when NorseAnimSwap's hook is the inner one, NorsePayload sees the original
 animation's name.
+
+## Licence
+
+GPL-3.0-or-later (see LICENSE). MinHook (BSD 2-Clause), compiled into the DLL, keeps its own notice in THIRD-PARTY-NOTICES.txt.
